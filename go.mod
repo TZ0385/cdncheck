@@ -10,9 +10,9 @@ require (
 	github.com/miekg/dns v1.1.62
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/goflags v0.1.74
-	github.com/projectdiscovery/gologger v1.1.62
+	github.com/projectdiscovery/gologger v1.1.63
 	github.com/projectdiscovery/mapcidr v1.1.97
-	github.com/projectdiscovery/retryabledns v1.0.110
+	github.com/projectdiscovery/retryabledns v1.0.111
 	github.com/projectdiscovery/utils v0.7.3
 	github.com/stretchr/testify v1.11.1
 	github.com/weppos/publicsuffix-go v0.40.3-0.20250408071509-6074bbe7fd39
